@@ -166,6 +166,8 @@ By transitioning to esbuild, the project moved toward a leaner and more modern t
 In practical terms, contributors experienced faster feedback cycles, and the CI pipeline became easier to reason about and maintain.
 
 ## Gratitude and Personal Reflection
+![LFX Mentorship Completion Certificate](/assets/lfx-mentorship.png)
+*LFX Mentorship Completion
 
 This mentorship would not have been possible without the guidance and trust of my mentors, Craig Box and Daniel Hawton from Solo.io. Their feedback went beyond code reviews , they challenged assumptions, encouraged architectural thinking, and emphasized clarity over convenience.
 
