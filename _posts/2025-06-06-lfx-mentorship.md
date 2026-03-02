@@ -167,7 +167,7 @@ In practical terms, contributors experienced faster feedback cycles, and the CI 
 
 ## Gratitude and Personal Reflection
 <div style="text-align: center;">
-  <img src="/assets/img/lfx-mentorship.png" alt="LFX Mentorship Completion Certificate" width="600"/>
+  <img src="/assets/lfx-mentorship.png" alt="LFX Mentorship Completion Certificate" width="600"/>
   <p><em>LFX Mentorship Completion – Certificate of Participation</em></p>
 </div>
 
