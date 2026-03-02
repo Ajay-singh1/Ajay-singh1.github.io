@@ -168,7 +168,7 @@ In practical terms, contributors experienced faster feedback cycles, and the CI 
 ## Gratitude and Personal Reflection
 <div style="text-align: center;">
   <img src="/assets/lfx-mentorship.png" alt="LFX Mentorship Completion Certificate" width="100%">
-  <p><em>LFX Mentorship Completion – Certificate of Participation</em></p>
+  <p><em>LFX Mentorship Completion Certificate</em></p>
 </div>
 
 This mentorship would not have been possible without the guidance and trust of my mentors, Craig Box and Daniel Hawton from Solo.io. Their feedback went beyond code reviews , they challenged assumptions, encouraged architectural thinking, and emphasized clarity over convenience.
