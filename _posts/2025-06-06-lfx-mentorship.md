@@ -4,7 +4,7 @@ description: >-
   A deep dive into modernizing a JavaScript CI/CD pipeline during LFX Mentorship,
   migrating from Babel to esbuild, reducing complexity, and improving build performance.
 author: ajay
-date: 2026-03-02
+date: 2025-06-06
 categories: [Open Source, Mentorship]
 tags: [LFX, CI/CD, JavaScript, Build Systems]
 pin: true
