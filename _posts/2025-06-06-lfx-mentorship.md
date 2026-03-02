@@ -22,7 +22,7 @@ During my mentorship, I worked on modernizing the project’s CI/CD infrastructu
 
 Modern JavaScript projects often evolve organically. Tooling decisions made early in a project’s lifecycle can remain in place for years, even as the ecosystem advances. Over time, this can introduce unnecessary complexity, slower build times, and increased maintenance overhead.
 
-The project’s CI/CD pipeline relied on Babel for transpilation and build processing. While Babel is powerful and highly configurable, its plugin-driven architecture and transformation-heavy workflow introduced additional layers of complexity into the build system. As the codebase grew, so did the configuration surface and the cognitive load required to maintain it.
+The project’s ```(istio.io)``` CI/CD pipeline relied on Babel for transpilation and build processing. While Babel is powerful and highly configurable, its plugin-driven architecture and transformation-heavy workflow introduced additional layers of complexity into the build system. As the codebase grew, so did the configuration surface and the cognitive load required to maintain it.
 
 Build performance is not merely a convenience — it directly affects contributor experience, review velocity, and deployment confidence. Slow pipelines discourage iteration. Complex configurations make debugging harder. Redundant transformation steps introduce avoidable technical debt.
 
