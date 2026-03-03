@@ -177,6 +177,14 @@ What stood out most was their willingness to trust me with meaningful responsibi
 
 Through this mentorship, I also had the opportunity to collaborate with engineers from organizations such as Google, Microsoft, Red Hat, and Solo.io. Working alongside professionals operating at that level exposed me to real-world engineering standards, thoughtful review culture, and disciplined system design.
 
+During this period, I was fortunate to be ranked among the top contributors in the Istio repository alongside my mentors Daniel and Craig 😊. Sharing the leaderboard with my mentors was a quiet but powerful reminder that consistency and guidance truly accelerate growth.
+
+<div style="text-align: center;">
+  <img src="/assets/Istio_contributor_stats.png" alt="Istio's Developer Conribution Stats" width="100%">
+  <p><em>Istio's Developer Contribution Stats</em></p>
+</div>
+
+
 This experience meant more to me than just a technical achievement.
 
 My interest in computer science began in 9th standard. At the time, I did not own a laptop. I borrowed one from my aunt when I was in 2nd year of my college , a 4GB RAM Intel i5 machine , and began learning to code on it. Resource constraints were constant, but curiosity was stronger.
