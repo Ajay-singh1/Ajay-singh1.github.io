@@ -12,7 +12,7 @@ pin: true
 
 ## Hello, World!
 
-My name is Ajay, and I am thrilled to be writing this as an Outreachy intern. I am a computer science student from Varanasi, India. I love Open Source Software and regularly contribute to FOSS , I got accepted to Outreachy in the May - Aug (2026) cohort , I'll be working with Rust Foundation under the guidance of my mentors teor , Joel Marcey , Taylor Cramer and Ethan Smith. 
+I got accepted to Outreachy in the May - Aug (2026) cohort , I'll be working with Rust Foundation under the guidance of my mentors teor , Joel Marcey , Taylor Cramer and Ethan Smith. 
 
 This post is my first internship report. I want to use it to introduce myself, tell you what brought me to Outreachy, and explain the project I will be spending the next three months on.
 
@@ -34,7 +34,7 @@ My specific project for the three-month internship is:
 
 > **Calling C++ Overloaded Functions from Rust**
 
-Rust and C++ are both systems programming languages, but they have very different approaches to the same problems. C++ has had *function overloading* for decades — the ability to define multiple functions with the same name but different parameter types. Rust, by design, does not have overloading in the same sense.
+Rust and C++ are both systems programming languages, but they have very different approaches to the same problems. C++ has had *function overloading* for decades , the ability to define multiple functions with the same name but different parameter types. Rust, by design, does not have overloading in the same sense.
 
 When Rust code needs to call into a C++ library (via the Foreign Function Interface, or FFI), overloaded functions present a specific challenge. The C++ compiler *mangles* function names , it encodes the parameter types into the symbol name to distinguish between overloads. Rust's FFI layer speaks C, not C++, so it cannot directly call C++ overloaded functions without extra plumbing.
 
@@ -74,7 +74,7 @@ Some things I explored and learned:
 
 Rust's lexer treats vertical tab (`\x0B`) as whitespace, but the `is_ascii_whitespace()` method does not. This mismatch caused the `needless_ifs` lint to silently miss cases where vertical tab appeared in the source , a false negative that could let redundant code slip through undetected.
 
-I tracked down the root cause, fixed the whitespace check, and navigated the challenge of writing a test for it: `rustfmt` strips vertical tabs during formatting, so preserving the test character required careful use of `#![rustfmt::skip]` and a separate test file to avoid touching the main test suite. Getting that detail right required multiple rounds of review and iteration — which turned out to be one of the most valuable parts of the process.
+I tracked down the root cause, fixed the whitespace check, and navigated the challenge of writing a test for it: `rustfmt` strips vertical tabs during formatting, so preserving the test character required careful use of `#![rustfmt::skip]` and a separate test file to avoid touching the main test suite. Getting that detail right required multiple rounds of review and iteration , which turned out to be one of the most valuable parts of the process.
 
 ### 2. Fix examples directory path in documentation — [interop-initiative #37](https://github.com/rustfoundation/interop-initiative/pull/37)
 
