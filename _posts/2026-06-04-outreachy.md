@@ -4,7 +4,7 @@ description: >-
   My Outreachy internship report: three months working on Rust-to-C++ interoperability,
   what brought me here, and what I hope to build.
 author: ajay
-date: 2025-06-06
+date: 2026-06-04
 categories: [Open Source, Outreachy]
 tags: [Outreachy, Rust, C++, FFI, Systems Programming]
 pin: true
