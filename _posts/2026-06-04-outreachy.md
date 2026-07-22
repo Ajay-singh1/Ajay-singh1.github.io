@@ -100,6 +100,8 @@ I am under no illusions that this will be easy. C++ and Rust represent two diffe
 
 ---
 
+# Mid Internship Report
+
 ## Weeks 1-2: Building a Foundation
  
 I spent the first two weeks of the internship not writing any code that would end up in a pull request. Instead I set up a full local build of the Rust compiler, which on its own is a nontrivial exercise, the `rustc` bootstrap process compiles a stage 0 compiler from a downloaded snapshot, uses it to build stage 1, and can go further to stage 2 depending on what you're testing. Getting `./x test` to run reliably, understanding the difference between stages, and learning to read compiler diagnostics well enough to debug my own toolchain issues took real time.
