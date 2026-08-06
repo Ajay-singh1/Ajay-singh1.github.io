@@ -5,7 +5,7 @@ order: 4
 ---
 ## Ajay Singh
 
-I'm a student from India currently pursuing my Bachelor's in Computer Science. I got interested in Computer Science when I was in 9th grade from their on I decided to take Computer Science as a career (Never regretted it).
+I'm a Sofware Developer from India , I got interested in Computer Science when I was in 9th grade from their on I decided to take Computer Science as a career (Never regretted it).
 
 I mostly work on Open Source software because to be honest I love free software. Open Source allows software developers to modify and redistribute code under a specific license which I find very amazing. Open Source makes you write code for the whole world not just yourself.
 
